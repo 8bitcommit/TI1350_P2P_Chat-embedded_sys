@@ -1,6 +1,6 @@
 
 /*
- * CMPT 464 Assignment 2 - Distributed Data Storage System
+ *  Distributed Data Storage System
  * Author: Ryan-Jay, Darion, Adam, Kody
  * Date: March 30, 2025
  *
