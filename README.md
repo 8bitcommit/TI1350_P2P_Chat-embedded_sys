@@ -58,10 +58,12 @@ S - Show Local Records
 E - Erase Local Storage 
 
 
-On startup, the node displays:  
+ 
 
 
 ## Application Behavior
+
+On startup, the node displays: 
 
 - `Find (F)`: Sends discovery requests, waits for responses, and lists reachable node IDs.
 - `Create (C)`: Asks user for target node ID and message, then transmits it to the peer.
@@ -84,11 +86,10 @@ On startup, the node displays:
 - Wireless communication and message handling logic
 - Demo-ready build flashed onto multiple CC1350 nodes
 
-s for Message Optimization: +5 points
 
 ## Notes
 
 - Communication between nodes is decentralized and peer-based.
 - The application simulates a basic chat system between embedded devices without relying on a centralized server.
-- Contributions must be reported via email by each group member following the submission.
+
 
